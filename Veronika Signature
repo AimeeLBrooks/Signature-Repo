@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <link type='text/css' href='http://fonts.googleapis.com/css?family=Lato:400,700' />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <!-- PAGE INFO -->
+    <meta charset="UTF-8" />
+    <meta content="text/html" http-equiv="Content-Type" />
+    <link rel="shortcut icon" href="https://img.icons8.com/fluency/50/000000/autograph.png" type="image/x-icon" />
+    <title>Email Signature</title>
+  </head>
+
+  <body style="font-family: Lato, sans-serif;">
+    <!-- CONTAINER -->
+    <table style="font-family: Lato, sans-serif;" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <!-- ==================== SECTION #1 ==================== -->
+          <td style="width: 150px; padding: 0; font-family: Lato, sans-serif; text-align: center; margin: auto;">
+            <!-- Photo -->
+            <a href="https://www.adroit-tuition.com/" target="_blank">
+              <img alt="Photograph" 
+                   style="width: 120px; height: 120px; border-radius: 60px; border: 0;" 
+                   src="https://i.ibb.co/StC6wDS/ezgif-3-bbad5f9cc3.jpg"
+              >
+            </a>
+          </td>
+
+          <!-- ==================== DIVIDER ==================== -->
+          <td style="height: 140px; border-left: thick solid #754D99; padding-right: 15px;"></td>
+          <td style="font-family: inherit; padding: 0; margin: auto;">
+
+          <!-- ==================== SECTION #2 ==================== -->
+          <table style="font-family: inherit;" cellpadding="0" cellspacing="0">
+            <tbody>
+              <!-- I. Name & Job -->
+              <tr>
+                <td style="font-family: inherit; padding: 0; vertical-align: top;" valign="top">
+                  <strong>
+                    <a style="font-family: inherit; color: #754D99; font-size: 14pt; text-decoration: none;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      AIMÉE BROOKS
+                    </a>
+                    </br>
+                  </strong>
+
+                  <a style="font-family: inherit; color:#666666; font-size: 10pt; text-decoration: none;" 
+                     href="https://www.adroit-tuition.com/" 
+                     target="_blank"
+                  >
+                    <i>Assistant Director</i>
+                  </a>
+                </td>
+              </tr>
+
+              <!-- II. Company -->
+              <tr>
+                <td style="font-family: inherit; padding-bottom: 6px; vertical-align: top;" valign="top">
+                  <strong>
+                    <a style="font-family: inherit; color:#666666; font-size: 10pt; text-decoration: none;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      ADROIT TUITION
+                    </a>
+                  </strong>
+                </td>
+              </tr>
+              
+              <!-- III. Contacts -->
+              <tr>
+                <td style="font-family: inherit; font-size: 9pt; padding-bottom: 6px; line-height: 18px; vertical-align: top; width: 500px;" valign="top">
+                  <!-- Phone -->
+                  <span style="font-family: inherit; color: #754D99;"><b>PHONE &sdot; </b></span>
+                  <a style="font-family: inherit; text-decoration: none; color: #666666;" 
+                     href="tel:+447955997012"
+                  >
+                    +44 7955997012
+                  </a>
+                  <br>
+                  <!-- Email -->
+                  <span style="font-family: inherit; color: #754D99;"><b>EMAIL &sdot; </b></span>
+                  <a style="font-family: inherit; text-decoration: none; color: #666666;" 
+                     href="aimeelbrooks95@gmail.com"
+                  >
+                    aimeelbrooks95@gmail.com
+                  </a>
+                  <br>
+                  <!-- Adress -->
+                  <span style="font-family: inherit; color: #754D99"><b>ADDRESS &sdot;</b></span>
+                  <a style="font-family: inherit; text-decoration: none; color: #666666;" 
+                     href="https://www.google.com/maps/place/91+Princess+St,+Manchester+M1+4HT/data=!4m2!3m1!1s0x487bb1c0261599b5:0x6b8639ff9ae198b3?sa=X&ved=2ahUKEwj-v4aTquX-AhVlQkEAHZ1_AuQQ8gF6BAgIEAI" 
+                     target="_blank"
+                  >
+                  91 Princess Street, Manchester, United Kingdom, M1 4HT
+                  </a>
+                </td>
+              </tr>
+              
+              <!-- IV. Links -->
+              <tr>
+                <td style="font-family: inherit; width: 140px; padding-top: 4px; padding-left: 0; text-align: left;" valign="left" width="140">
+                  
+                  <!-- Facebook -->
+                  <span>
+                    <a style="text-decoration: none; padding-right: 4px;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      <img alt="facebook" 
+                           style="width: 18px; height: 18px;" 
+                           src="https://i.ibb.co/7SxJdfb/facebook-brands.png"
+                      >
+                    </a>
+                  </span>
+                  
+                  <!-- Twitter -->
+                  <span>
+                    <a style="text-decoration: none; padding: 0 4px;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      <img alt="twitter" 
+                           style="width: 18px; height: 18px;" 
+                           src="https://i.ibb.co/5LCwBjn/twitter-brands.png"
+                      >
+                    </a>
+                  </span>
+                  
+                  <!-- YouTube -->
+                  <span>
+                    <a style="text-decoration: none; padding: 0 4px;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      <img alt="youtube" 
+                           style="width: 18px; height: 18px;" 
+                           src="https://i.ibb.co/KzYcSv6/youtube-brands.png"
+                      >
+                    </a>
+                  </span>
+                  
+                  <!-- Linkedin -->
+                  <span>
+                    <a style="text-decoration: none; padding: 0 4px;" 
+                       href="https://www.adroit-tuition.com/" 
+                       target="_blank"
+                    >
+                      <img alt="linkedin" 
+                           style="width: 18px; height: 18px;" 
+                           src="https://i.ibb.co/w0sFzY4/linkedin-brands.png"
+                      >
+                    </a>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
