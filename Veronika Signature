@@ -41,7 +41,7 @@
                        href="https://www.adroit-tuition.com/" 
                        target="_blank"
                     >
-                      AIMÉE BROOKS
+                      VERONIKA SUKHAREVA
                     </a>
                     </br>
                   </strong>
@@ -50,7 +50,7 @@
                      href="https://www.adroit-tuition.com/" 
                      target="_blank"
                   >
-                    <i>Assistant Director</i>
+                    <i>Director</i>
                   </a>
                 </td>
               </tr>
@@ -75,9 +75,9 @@
                   <!-- Phone -->
                   <span style="font-family: inherit; color: #754D99;"><b>PHONE &sdot; </b></span>
                   <a style="font-family: inherit; text-decoration: none; color: #666666;" 
-                     href="tel:+447955997012"
+                     href="tel:+44 7533 657884"
                   >
-                    +44 7955997012
+                    +447533657884
                   </a>
                   <br>
                   <!-- Email -->
@@ -106,12 +106,25 @@
                   <!-- Facebook -->
                   <span>
                     <a style="text-decoration: none; padding-right: 4px;" 
-                       href="https://www.adroit-tuition.com/" 
+                       href="https://www.facebook.com/people/Adroit-Tuition-Learning-Hub/100091212966074/" 
                        target="_blank"
                     >
                       <img alt="facebook" 
                            style="width: 18px; height: 18px;" 
                            src="https://i.ibb.co/7SxJdfb/facebook-brands.png"
+                      >
+                    </a>
+                  </span>
+                  
+                  <!-- Instagram -->
+                  <span>
+                    <a style="text-decoration: none; padding: 0 4px;" 
+                       href="https://www.instagram.com/adroit.tuition/?igshid=YmMyMTA2M2Y%3D" 
+                       target="_blank"
+                    >
+                      <img alt="Instagram" 
+                           style="width: 18px; height: 18px;" 
+                           src="https://i.ibb.co/10vg5Dd/instagram-brands.png"
                       >
                     </a>
                   </span>
@@ -145,7 +158,7 @@
                   <!-- Linkedin -->
                   <span>
                     <a style="text-decoration: none; padding: 0 4px;" 
-                       href="https://www.adroit-tuition.com/" 
+                       href="https://www.linkedin.com/in/veronikasukhareva" 
                        target="_blank"
                     >
                       <img alt="linkedin" 
